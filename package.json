@@ -1,0 +1,32 @@
+{
+  "name": "dbv_pontuacao",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernandoRodrigues29/pontuacao_dbv.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/fernandoRodrigues29/pontuacao_dbv/issues"
+  },
+  "homepage": "https://github.com/fernandoRodrigues29/pontuacao_dbv#readme",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.13.2",
+    "vue": "^3.5.26",
+    "vue-router": "^4.6.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^6.0.3",
+    "vite": "^7.3.0"
+  }
+}
